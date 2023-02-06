@@ -40,7 +40,7 @@
     <nav class="navbar navbar-light bg-light mb-4">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
-            Devinta Dwi Maharani (13)
+            Rafli Syarif Abhipraya (25)
             </a>
         </div>
     </nav>
@@ -69,7 +69,7 @@
                 <div class="col-sm-10">
                     <select value="<?php echo $kelas; ?>" required id="kelas" name="kelas" class="form-select">
                         <option selected>Kelas</option>
-                        <option value="XI TKJ2">XI TKJ2</option>
+                        <option value="XI TKJ1">XI TKJ1</option>
                     </select>
                 </div>
             </div>
