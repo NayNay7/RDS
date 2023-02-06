@@ -25,7 +25,7 @@
     <nav class="navbar navbar-light bg-light">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
-          Devinta Dwi Maharani (13)
+          Rafli Syarif Abhipraya (25)
         </a>
       </div>
     </nav>
@@ -35,7 +35,7 @@
       <h1 class="mt-4">Data Profil Siswa</h1>
       <figure>
         <blockquote class="blockquote">
-          <p>Data siswa SMK Telkom Malang kelas XI TKJ2.</p>
+          <p>Data siswa SMK Telkom Malang kelas XI TKJ1.</p>
         </blockquote>
         <figcaption class="blockquote-footer">
           CRUD <cite title="Source Title">Create Read Update Delete</cite>
